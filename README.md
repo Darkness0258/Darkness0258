@@ -5,7 +5,7 @@
 **Software Engineer | Python Developer | Game Enthusiast | CUST University Student**  
 
 Welcome to my GitHub! I’m an 18-year-old student and software engineer passionate about programming, game development, and digital creativity. I build interactive 2D games using Python & Pygame, develop software solutions, and explore new technologies to grow my skills.  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">.............................................................................................................................................................................................................................................................</h3>
 <p align="left">
 </p>
 
