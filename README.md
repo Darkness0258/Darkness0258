@@ -1,80 +1,85 @@
-# Hi, I'm Hamza Nadeem 👋
+<div align="center">
 
-![Profile Banner](https://github.com/Darkness0258/Darkness0258/blob/main/Banner.png?raw=true)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1b27&height=200&section=header&text=Hamza&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Hamza — Darkness X"/>
 
-**Software Engineer | Python Developer | Game Enthusiast | CUST University Student**  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=BF91F3&center=true&vCenter=true&width=650&lines=Darkness+X+-+Software+Engineer;Full-Stack+%2B+AI+Developer;Building+Akane%2C+DarkOS+%26+StreakVault;Published+KDP+Author" alt="Typing SVG"/></a>
 
-Welcome to my GitHub! I’m an 18-year-old student and software engineer passionate about programming, game development, and digital creativity. I build interactive 2D games using Python & Pygame, develop software solutions, and explore new technologies to grow my skills.  
-<h3 align="left">.............................................................................................................................................................................................................................................................</h3>
-<p align="left">
-</p>
+<p>Software Engineering student at CUST who builds AI companions, security tooling, and full-stack apps — currently wrestling a custom Arch Linux ISO past its bootloader. Full-stack + AI freelancer on Fiverr and Upwork, and a published author on Amazon KDP under the Darkness X name.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/Based%20in-Pakistan-7aa2f7?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/Freelance-Available-bf91f3?style=for-the-badge" alt="Freelance status"/>
+<img src="https://komarev.com/ghpvc/?username=Darkness0258&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile views"/>
 
----
-
-## 🔹 About Me
-- Student at **CUST University** 🎓  
-- Software engineer and **Python developer**  
-- Creator of 2D games with **Pygame** and software projects  
-- Passionate about coding, problem-solving, and learning new technologies 🌟  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 🔹 Skills
-**Python** | ██████████ 95%  
-**Pygame** | █████████▌ 90%  
-**Software Development** | █████████▌ 90%  
-**HTML/CSS** | ███████▌ 70%  
-**Git & GitHub** | █████████ 85%  
+## 🧬 About
+
+- 🎓 Software Engineering @ CUST · 2026–2030
+- 💼 Full-stack + AI freelance developer — Fiverr & Upwork
+- 📚 KDP Author — two published titles as Darkness X
+- 🌱 Learning Japanese, one Duolingo streak at a time
+- ⚡ Currently shipping **Akane**, **DarkOS**, and **StreakVault**
+
+## 🚀 Currently Building
+
+**Akane** — PyQt6 AI companion for Windows. OpenRouter LLMs, Groq Whisper for speech-to-text, edge-tts for voice, Supabase for memory, `pyautogui` for system control. Mid-redesign right now with a liquid-glass UI.
+
+<img src="https://skillicons.dev/icons?i=py,qt,supabase&theme=dark" height="32" alt="Akane stack"/>
+
+**DarkOS** — Custom Arch Linux ISO: archiso, Hyprland, BlackArch tools, Calamares installer. Glassmorphism / JARVIS-HUD aesthetic.
+
+<img src="https://skillicons.dev/icons?i=arch,linux,bash&theme=dark" height="32" alt="DarkOS stack"/>
+
+**StreakVault** — Gamified quiz web app, co-founded with Muhammad Taimoor. Supabase backend (Postgres, Edge Functions, RLS), Android via Capacitor planned. AI-generated question bank live with 750+ questions in production.
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase&theme=dark" height="32" alt="StreakVault stack"/>
+
+## 🗂️ Past Builds
+
+| Project | What it does | Built with |
+|---|---|---|
+| **PHANTOM** | Full network monitoring system — Rust backend, React dashboard, FastAPI AI service (live on Hugging Face Spaces), mobile + desktop clients | Rust · Axum · React · TypeScript · FastAPI · React Native · Electron · WireGuard |
+| **Luma Camera** | Android camera app — 21 LUT presets, a 12-tool editor, AI scene detection, portrait blur | Kotlin · CameraX |
+| **GhostShift** | Offline-first PWA for labor rights — shift logging, labor law cross-reference, court-ready evidence export | PWA · IndexedDB · Background Sync |
+| **Black Hole Simulation** | Cinematic sim with real Schwarzschild lensing and N-body gravity | Python · Pygame |
+
+## 🏆 Hackathons
+
+| Event | What I built |
+|---|---|
+| **TRIDENT** · SE Hackathon 2026, CUST | AI bid-proposal engine — FastAPI + Claude/OpenRouter, RAG compliance checks, automated win-scoring |
+| **National AI Hackathon '26** | Qualified for the Islamabad regional round, FAST NUCES |
 
 ---
 
-## 🔹 Projects
-### 🎮 Ghost Hunter
-_Action-packed 2D game where a hero defeats waves of ghosts using Python & Pygame_  
+<div align="center">
 
-![Ghost Hunter Preview](https://raw.githubusercontent.com/Darkness0258/Darkness0258/main/ghost-hunter.gif)  
+<h2>📊 GitHub Stats</h2>
 
-[View on GitHub](https://github.com/Darkness0258/Darkness0258)  
+<img src="https://github-readme-stats.vercel.app/api?username=Darkness0258&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Darkness0258&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
-### 💻 Software Projects
-- **Project Name 1:** Description of a software engineering project you built  
-- **Project Name 2:** Description of another software project  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkness0258&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Darkness0258&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
 
-## 🔹 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkness0258&show_icons=true&theme=dark&count_private=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkness0258&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Activity Graph"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkness0258&layout=compact&theme=dark)
+<h2>🛠️ Tech Stack</h2>
 
----
+<img src="https://skillicons.dev/icons?i=py,ts,js,rust,kotlin,react,tailwind,vite,fastapi,supabase,qt,docker,git,arch,electron&theme=dark" alt="Tech Stack"/>
 
-## 🔹 Dream Companies
-- ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)  
-- ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epic-games&logoColor=white)  
-- ![Ubisoft](https://img.shields.io/badge/Ubisoft-0E3A59?style=for-the-badge&logo=ubisoft&logoColor=white)  
-- ![Electronic Arts](https://img.shields.io/badge/Electronic%20Arts-000000?style=for-the-badge&logo=electronic-arts&logoColor=white)  
-- ![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)  
-- ![Valve](https://img.shields.io/badge/Valve-000000?style=for-the-badge&logo=valve&logoColor=white)  
-- ![Activision](https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=activision&logoColor=white)  
-- ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)  
-- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)  
+<h2>🌐 Connect</h2>
 
----
+<a href="https://github.com/Darkness0258"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.youtube.com/@DARKNESSGAMING592"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.fiverr.com/alphastar01"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
 
-## 🔹 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)  
+<br/>
+<sub>Thanks for stopping by 👋</sub>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-> "Coding is my superpower, and games are my canvas!" 🎮
+</div>
