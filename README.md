@@ -58,12 +58,12 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darkness0258&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=Darkness0258&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
+<img src="./profile/streak.svg" height="165" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkness0258&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Darkness0258&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="./profile/trophy.svg" alt="Trophies"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkness0258&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Activity Graph"/>
 
