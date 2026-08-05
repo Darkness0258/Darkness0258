@@ -45,7 +45,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Darkness0258
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: tokyonight
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit and push if changed
